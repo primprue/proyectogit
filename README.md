@@ -7,6 +7,6 @@ prueba de repo
   var int = 10;
 }
 
-'''
+```
 let es = 20;
-'''
+```
